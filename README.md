@@ -6,7 +6,7 @@ This frontend is developed with REACT and is connected to a REST API developed w
 
 Permission is hereby given to any individual or organization intested in checking out the app. 
 
-### ```git clone ###``` 
+### ```git clone``` 
 
 The prospective users of the app should remember to create their own environment variables. 
 
